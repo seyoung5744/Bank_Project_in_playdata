@@ -51,4 +51,7 @@ public class FinanceConsulting implements CustomerInfoRequest {
 		}
 		*/
 	}
+
+	public void test() {
+	}
 }
