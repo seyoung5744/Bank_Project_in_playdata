@@ -7,4 +7,7 @@ import java.io.IOException;
 public interface CustomerInfoRequest {
 	//public void infoRequest() throws IOException ;  // "고객의 정보를 받는다" 
 	public void start() throws IOException ;
+
+	// ㅎㅎㅎtest 중~~
+
 }
